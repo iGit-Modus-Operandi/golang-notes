@@ -1,6 +1,7 @@
 # golang-notes
 Notes for core concepts and implementation for a beginner golang developer
 
+
 ### Commit Message Tags
 
 * [**NOTES**] - Accompanying notes discussing the concept
