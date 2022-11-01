@@ -1,0 +1,16 @@
+BASIC TYPES
+    Java defines eight primitive types of data: byte, short, int, long, char, float, double, and boolean.
+* Numbers
+* Strings
+* Booleans
+
+COMPOSITE TYPES
+* Arrays
+* Structs
+* Pointers
+* Functions
+* Interfaces
+* Slices
+* Maps
+* Channels
+
